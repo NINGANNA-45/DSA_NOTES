@@ -5,4 +5,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20">
     NINGANNA_45
   </a>
-- After opening, click <button>More Pages</button> in the below at centre.
+- After opening above pdf's, click <button>More Pages</button> in the below at centre.
